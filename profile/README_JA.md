@@ -35,6 +35,7 @@
 * [Github Discussion](https://github.com/53AI/53AIHub/discussions): ご利用シーンやご要望の共有
 * [GitHub Issues](https://github.com/53AI/53AIHub/issues): 53AI Hub利用中に見つかったバグ報告
 * WeChat：18688881188（ビジネス協業専用。カスタマーサポートではありません）
-* [Email：ceo@53ai.com](mailto:ceo@53ai.com): チームへの参加希望など
+* [Email：hub@53ai.com](mailto:hub@53ai.com): チームへの参加希望など
 
 **私たちは、あなたと共にAI生産性のリーダーを目指すことを楽しみにしています。**
+

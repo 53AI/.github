@@ -36,6 +36,7 @@ In May 2025, the team released the open-source **53AI Hub**, a **cross-platform 
 * **GitHub Discussion**: Share your use cases and feature requests
 * **GitHub Issues**: Report bugs encountered while using 53AI Hub
 * **WeChat**: 18688881188 (Business cooperation only; not a support hotline)
-* **Email**: [ceo@53ai.com](mailto:ceo@53ai.com) (Join our team)
+* **Email**: [Email：hub@53ai.com](mailto:hub@53ai.com) (Join our team)
 
 We look forward to becoming **a leading force in AI productivity**  together with you.
+

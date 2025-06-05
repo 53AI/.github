@@ -27,7 +27,7 @@
 - [Github Discussion](https://github.com/53AI/53AIHub/discussions). 分享使用场景及需求
 - [GitHub Issues](https://github.com/53AI/53AIHub/issues). 使用53AI Hub遇到的Bug
 - Wechat：18688881188. 商务合作 （非客服电话）
-- [Email：ceo@53ai.com](mailto:ceo@53ai.com).  加入我们
+- [Email：hub@53ai.com](mailto:hub@53ai.com).  加入我们
 
 我们期待与你一起成为AI生产力的卓越领导者
 
