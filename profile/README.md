@@ -14,8 +14,11 @@ To address this, in **February 2025**, we proposed the idea of **53AI Hub** — 
 
 Our vision for 53AI Hub is to break through the boundaries of individual AI agent innovations and enable AI productivity to circulate efficiently across broader business scenarios.
 
-* On **May 18, 2025**,  **53AI Hub v0.1.0** was released.
-* On **May 29, 2025**,  **53AI Hub v0.1.1** was released.
+* On **May 18, 2025**, we released **53AI Hub version 0.1.0**
+* On **May 29, 2025**, we released **53AI Hub version 0.1.1**
+* On **June 12, 2025**, we released **53AI Hub version 0.1.2**
+* On **June 19, 2025**, we released **53AI Hub version 0.1.3**
+* On **June 26, 2025,** we released **53AI Hub version 0.1.4**
 
 ---
 
@@ -39,4 +42,3 @@ In May 2025, the team released the open-source **53AI Hub**, a **cross-platform 
 * **Email**: [Email：hub@53ai.com](mailto:hub@53ai.com) (Join our team)
 
 We look forward to becoming **a leading force in AI productivity**  together with you.
-
