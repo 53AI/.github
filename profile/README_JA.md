@@ -39,3 +39,5 @@
 
 **私たちは、あなたと共にAI生産性のリーダーを目指すことを楽しみにしています。**
 
+- ![.jpg](http://kmdev.53ai.com/api/preview/e884dbfe4ab8161ee268011111b900c3.jpg)
+
