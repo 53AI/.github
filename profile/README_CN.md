@@ -29,5 +29,8 @@
 - Wechat：18688881185. 商务合作 （非客服电话）
 - [Email：hub@53ai.com](mailto:hub@53ai.com).  加入我们
 
+
 我们期待与你一起成为AI生产力的卓越领导者
+
+- ![.jpg](http://kmdev.53ai.com/api/preview/e884dbfe4ab8161ee268011111b900c3.jpg)
 
