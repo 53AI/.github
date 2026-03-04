@@ -37,3 +37,6 @@ In May 2025, the team released the open-source **53AI Hub**, a **cross-platform 
 * **Email**: [Email：hub@53ai.com](mailto:hub@53ai.com) (Join our team)
 
 We look forward to becoming **a leading force in AI productivity**  together with you.
+
+- ![.jpg](http://kmdev.53ai.com/api/preview/e884dbfe4ab8161ee268011111b900c3.jpg)
+
